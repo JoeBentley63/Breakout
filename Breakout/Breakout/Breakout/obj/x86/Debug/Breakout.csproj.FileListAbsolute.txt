@@ -1,0 +1,18 @@
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\ball.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\block.xnb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\Paddle.xnb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\ball.xnb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\block.xnb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Content\Paddle.xnb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.exe
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.pdb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
